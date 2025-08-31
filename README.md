@@ -1,2 +1,3 @@
 # GitHub-Copilot-Tutorial
-GitHub related notes and working files
+GitHub related notes and working files for learning purpouse
+git add
