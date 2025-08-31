@@ -1,3 +1,3 @@
 # GitHub-Copilot-Tutorial
-GitHub related notes and working files for learning purpouse
+GitHub related notes and working files for educational purpouse
 
