@@ -16,4 +16,4 @@ def is_palindrome(s):
 # Example usage
 if __name__ == "__main__":
     test_string = "A man, a plan, a canal, Panama"
-    print(f"Is the string '{test_string}' a palindrome ? \n{is_palindrome(test_string)}")
+    print(f"Is the string '{test_string}' a palindrome ? {is_palindrome(test_string)}")
